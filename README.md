@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniil (or simply Dani)</h1>
 <h3 align="center">engineer and entrepreneur</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morozovdd" alt="morozovdd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/moroz_holod" target="blank"><img src="https://img.shields.io/twitter/follow/moroz_holod?logo=twitter&style=for-the-badge" alt="moroz_holod" /></a> </p>
-
 - 🔭 I’m currently working on **neuronavigation algorithm (coming soon)**
 
 - 🌱 I’m currently learning **Next.js and cell biology...**
